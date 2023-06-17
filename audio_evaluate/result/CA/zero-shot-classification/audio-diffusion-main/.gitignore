@@ -1,0 +1,14 @@
+.vscode
+__pycache__
+.ipynb_checkpoints
+data
+models
+flagged
+build
+dist
+audiodiffusion.egg-info
+lightning_logs
+taming
+checkpoints
+Pipfile
+Pipfile.lock

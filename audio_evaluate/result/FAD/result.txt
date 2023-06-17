@@ -1,0 +1,15 @@
+
+------ L1-correct_GT_Fad.txt --------
+mean score: 15.47117499508507
+
+------ L1_no_atten-correct_GT_Fad.txt --------
+mean score: 15.218594197040668
+
+------ L1_no_norm-correct_GT_Fad.txt --------
+mean score: 21.855523912494426
+
+------ L2_GT_Fad.txt --------
+mean score: 14.442766034768118
+
+------ L2_no_atten_GT_Fad.txt --------
+mean score: 15.116731443848561
