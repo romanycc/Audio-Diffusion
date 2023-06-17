@@ -58,6 +58,19 @@ dir_2 = path of generate .wav.
 * Go to https://huggingface.co/lukewys/laion_clap/blob/main/630k-audioset-best.pt download the pretrained weight.
 * Put your generate file path to esc50_test_dir
 
+## Demo
+
+
+https://github.com/romanycc/Audio-Diffusion/assets/131567914/a0e34696-531f-4b51-a450-af0c737d993e
+
+
+https://github.com/romanycc/Audio-Diffusion/assets/131567914/d8a052d8-9e55-4165-83f9-3f3373926226
+
+
+https://github.com/romanycc/Audio-Diffusion/assets/131567914/6b08b2e3-c69a-4ad5-b779-1567948cab16
+
+
+
 
 
 
