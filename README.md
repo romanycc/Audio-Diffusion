@@ -1,5 +1,7 @@
 # Audio Diffusion Research
 
+* Team members : 楊佳誠、邱以中、蔡桔析
+
 ## Introduction
 
 * This is the final project for NYCU_DLP course.
@@ -58,6 +60,8 @@ dir_2 = path of generate .wav.
 
 
 
+
+
 ## Reference
 
 1. https://github.com/teticio/audio-diffusion
@@ -65,3 +69,5 @@ dir_2 = path of generate .wav.
 3. https://github.com/gudgud96/frechet-audio-distance
 4. https://github.com/huggingface/diffusers
 5. https://arxiv.org/abs/2111.05826
+
+
